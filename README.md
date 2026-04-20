@@ -130,12 +130,12 @@
 单仓：
  http://www.饭太硬.com/tv	# 饭太硬接口
  http://肥猫.com				# 肥猫接口
- https://毒盒.com/tv/	# 毒盒
  http://我不是.摸鱼儿.com			# 摸鱼儿接口
  http://ok213.top/tv		# OK影视内部接口
  http://ok213.top/ok		# OK影视公开接口
  http://tvbox.王二小放牛娃.top		# 王小二放牛娃接口
  https://9280.kstore.vip/newwex.json # 王小二放牛娃新接口
+ https://17264.kstore.space/哈基米.png	# 哈基米
  https://www.yingm.cc/dm/dm.json  	# 动漫城接口
  http://home.jundie.top:81/top98.json	# 俊佬接口
  http://cdn.qiaoji8.com/tvbox.json		# 巧记
@@ -157,7 +157,6 @@
  http://www.meowtv.vip/tvbox.json	# 喵影视
  http://fmys.top/fmys.json	# 驸马
  https:/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json		# 高天流云
- https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/1.json	# 青龙
  https://raw.githubusercontent.com/maoystv/6/main/000.json	# 分享
  https://cnb.cool/fish2018/duanju/-/git/raw/main/tvbox.json		# 短剧
  https://raw.githubusercontent.com/chitue/dongliTV/main/api.json	# 东篱线路
@@ -172,8 +171,6 @@
  https://9877.kstore.space/AnotherDS/api.json		# 潇洒单仓
  http://xhztv.top/dc/   # 小盒子多仓
  http://xhztv.top/DC.txt  # 小盒子多仓（备）
- https://bitbucket.org/xduo/cool/raw/main/room.json   # 多多影音
- https://qixing.myhkw.com/DC.txt   # 七星宝盒
  http://xmbjm.fh4u.org/dc.txt   # 拾光多仓
 ```
 
